@@ -1,2 +1,2 @@
-# flask_into
+# flask_intro
 Flask Introduction with VSCode
